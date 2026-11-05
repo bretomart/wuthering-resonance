@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://bretomart.github.io/wuwa-team-builder/sitemap.xml
+Sitemap: https://bretomart.github.io/wuthering-resonance/sitemap.xml

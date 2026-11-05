@@ -4,6 +4,6 @@ import tailwindcss from '@tailwindcss/vite';
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/wuwa-team-builder/',
+  base: '/wuthering-resonance/',
   plugins: [vue(), tailwindcss()],
 });
